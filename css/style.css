@@ -1455,6 +1455,7 @@ background:#fff;
 		float: left;
 		width: 100%;
 		padding: 0;
+		
 	}
 	.num-scroller {
 		padding: 40px 0;
@@ -1766,3 +1767,50 @@ h3.tittle:after, h3.tittle:before {
 	}
 }
 
+Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  
+  color: white;
+  padding:8px;
+  margin-left: 12px;
+  font-size: xx-large;
+}
+
+.fa-instagram {
+	color: white;
+	padding:8px;
+	margin-left: 12px;
+	font-size: xx-large;
+
+  }
+  .fa-whatsapp {
+	color: white;
+	padding:8px;
+	margin-left: 12px;
+	font-size: xx-large;
+  }
+   .fa-phone
+  {
+	color: white;
+	padding:8px;
+	margin-left: 12px;
+	font-size: xx-large;
+  }
+  
+  
